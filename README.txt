@@ -1,3 +1,9 @@
+## About the page repositry
+
+The website was prepared based on the website template https://html5up.net/dimension.
+
+## Original README from https://html5up.net/dimension repository
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
